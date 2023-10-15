@@ -1,8 +1,8 @@
 # Übung Net01 - Packet Tracer
 
-## Erstellt einen Account bei der Cisco Academy
-Die Links findet ihr
-Findet einen Weg euren eigenen VPN Server einzurichten um aus dem CodersBay Netzwerk auszubrechen.
+## Cisco Academy
+Erstellt einen Account bei https://skillsforall.com/
 
-## Tipp
-GitHub bietet gratis Virtuelle Maschinen an.
+## Packet Tracer
+Nehmt am Einsteigerkurs teil und ladet euch Packet Tracer herunter
+https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US

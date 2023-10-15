@@ -1,0 +1,6 @@
+# Übung AD02 - Network Share
+
+## Network Share erstellen
+* Erstelle einen neuen Ordner auf Core01 mit dem Namen "NetworkShare"
+* Gebt den Ordner frei und erstellt eine Freigabe mit dem Namen "NetworkShare"
+

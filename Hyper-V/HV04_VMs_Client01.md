@@ -2,21 +2,26 @@
 
 ## Erstellt eine VM
 
-* Name:             DC01
+* Name:             Client01
 * Generation:       02
 * Arbeitsspeicher:  4096MB; dynamisch
 * Netzwerk:         Default Switch
-* VHD:              DC01.vhdx; 32GB
+* VHD:              Client01.vhdx; 32GB
 * Installation:     Von Imagedatei; Server2022.iso
 
-## Startet die VM und installiert Windows Server 2022
+## Startet die VM und installiert Windows 11 Pro
 
 * Language to install:      English
 * Time & currency:          Germany
 * Keyboard Input:           German
-* Operating System:         Windows Server 2022 Standard Evaluation (Desktop Experience)
+* Operating System:         Windows 11 Pro
 * Installation Type:        Custom
 * Hard Disk:                1 Partition; 32GB
+
+## Konfiguriert Client01
+
+* Bindet die VM in die Domäne `itcon.arpa` ein
+
 
 ## Dokumentiert eure Schritte in OneNote
 

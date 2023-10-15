@@ -2,11 +2,11 @@
 
 ## Erstellt eine VM
 
-* Name:             DC01
+* Name:             Core01
 * Generation:       02
 * Arbeitsspeicher:  4096MB; dynamisch
 * Netzwerk:         Default Switch
-* VHD:              DC01.vhdx; 32GB
+* VHD:              Core01.vhdx; 32GB
 * Installation:     Von Imagedatei; Server2022.iso
 
 ## Startet die VM und installiert Windows Server 2022
@@ -14,7 +14,7 @@
 * Language to install:      English
 * Time & currency:          Germany
 * Keyboard Input:           German
-* Operating System:         Windows Server 2022 Standard Evaluation (Desktop Experience)
+* Operating System:         Windows Server 2022 Standard Evaluation
 * Installation Type:        Custom
 * Hard Disk:                1 Partition; 32GB
 
