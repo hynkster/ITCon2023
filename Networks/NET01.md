@@ -1,4 +1,4 @@
-# Übung Net01 - Packet Tracer
+# Übung NET01 - Packet Tracer
 
 ## Cisco Academy
 Erstellt einen Account bei https://skillsforall.com/
