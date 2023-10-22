@@ -2,12 +2,12 @@
 
 ## Erstellt eine VM
 
-* Name:             Client01
+* Name:             Win01
 * Generation:       02
 * Arbeitsspeicher:  4096MB; dynamisch
 * Netzwerk:         Default Switch
-* VHD:              Client01.vhdx; 32GB
-* Installation:     Von Imagedatei; Server2022.iso
+* VHD:              Win01.vhdx; 32GB
+* Installation:     Von Imagedatei; Win11.iso
 
 ## Startet die VM und installiert Windows 11 Pro
 
@@ -20,6 +20,7 @@
 
 ## Konfiguriert Client01
 
+* Ändert den hostname des Clients zu "Win01"
 * Bindet die VM in die Domäne `itcon.arpa` ein
 
 
