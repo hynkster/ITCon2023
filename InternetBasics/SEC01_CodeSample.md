@@ -21,7 +21,6 @@
 * Wie können Security Schlungsmaßnahmen für Mitarbeiter aussehen?
 * Welche Monitoring Lösungen gibt es und was können sie?   
 
-
 ## Aufgabe für Gruppe 3: Availability
 
 * Welche Bedrohungen gibt es und wie sehen sie aus?
