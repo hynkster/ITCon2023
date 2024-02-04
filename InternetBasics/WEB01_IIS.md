@@ -22,6 +22,6 @@
 
 ## Richtet den Internet Information Service (IIS) ein
 
-* Sucht eine passende Anleitung und setzt die Schritte im 
-* Testet die Installation im Anschluss am Localhost und von einer anderen VM
+* Sucht eine passende Anleitung und installiert IIS auf Windows Server 2022
+* Testet die Installation im Anschluss am Localhost und anschließend von einer anderen VM
 * Konfiguriert den DNS so, dass der Webserver über den Domainnamen Web01.home.arpa erreichbar ist
