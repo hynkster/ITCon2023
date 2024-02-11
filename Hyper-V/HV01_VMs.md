@@ -1,4 +1,4 @@
-# Übung HV01 - VM erstellen und Windows Server 2022
+# Übung HV01 - VM erstellen und Windows Server 2022 installieren
 
 ## Erstellt eine VM
 

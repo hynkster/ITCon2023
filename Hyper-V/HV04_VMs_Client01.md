@@ -1,11 +1,11 @@
-# Übung HV01 - VM erstellen und Windows Server 2022
+# Übung HV04 - VM erstellen und Windows 11 Pro installieren
 
 ## Erstellt eine VM
 
 * Name:             Win01
 * Generation:       02
 * Arbeitsspeicher:  4096MB; dynamisch
-* Netzwerk:         Default Switch
+* Netzwerk:         ITCon
 * VHD:              Win01.vhdx; 32GB
 * Installation:     Von Imagedatei; Win11.iso
 

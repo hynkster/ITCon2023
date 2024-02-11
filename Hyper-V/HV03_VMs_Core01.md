@@ -1,11 +1,11 @@
-# Übung HV01 - VM erstellen und Windows Server 2022
+# Übung HV01 - VM erstellen und Windows Server 2022 installieren
 
 ## Erstellt eine VM
 
 * Name:             Core01
 * Generation:       02
 * Arbeitsspeicher:  4096MB; dynamisch
-* Netzwerk:         Default Switch
+* Netzwerk:         ITCon
 * VHD:              Core01.vhdx; 32GB
 * Installation:     Von Imagedatei; Server2022.iso
 
