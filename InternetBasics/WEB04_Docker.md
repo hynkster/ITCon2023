@@ -7,3 +7,8 @@
 * Verwendet Docker um einen Webserver (httpd) aufzusetzen
 * Sucht und notiert die wichtigsten Docker Befehle 
 * Recherchiert online wenn ihr nicht weiter wisst
+
+## Dokumentation
+
+* https://docs.docker.com/engine/install/ubuntu/
+* https://hub.docker.com/_/httpd
