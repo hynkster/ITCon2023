@@ -26,6 +26,7 @@
 * Subnetmask:  255.255.255.0
 * Gateway:     10.0.0.1
 * Domain:      itcon.arpa 
+* DNS:         10.0.0.10
 
 ## Richtet den Internet Information Service (IIS) ein
 

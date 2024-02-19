@@ -1,6 +1,6 @@
-# Übung WEB01 - Webserver
+# Übung WEB03 - NGINX
 
-## Setzt einen Webserver auf auf Windows Basis auf!
+## Setzt einen Webserver auf auf Ubuntu Basis auf!
 
 ## Erstellt eine VM
 
@@ -22,6 +22,7 @@ Vor dem Start der VM muss in den VM-Einstellungen "Sicherer Start" deaktiviert w
 * IP:          10.0.0.13
 * Subnetmask:  255.255.255.0
 * Gateway:     10.0.0.1
+* DNS:         10.0.0.10
 
 ## Installiert NGINX auf Web02
 
